@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel serve ./index.html",
-    "build": "parcel build ./index.html"
+    "build": "parcel build ./index.html",
+    "jsonserver": "json-server -w db.json"
   },
   "keywords": [],
   "author": "Kenneth Bushman",
