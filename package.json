@@ -14,7 +14,9 @@
   "devDependencies": {
     "parcel": "^2.0.0-beta.2"
   },
-  "dependencies": {},
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kbbushman/web-framework.git"
